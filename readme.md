@@ -1,3 +1,3 @@
 # GIT
 
-`feature-branch`
+`next-branch`
