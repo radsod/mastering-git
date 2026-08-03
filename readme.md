@@ -1,1 +1,2 @@
-# GIT
+# GIT GUIDE
+- Adding this from `dev-jsm`
