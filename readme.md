@@ -1,2 +1,3 @@
-# WELCOME TO GIT
-#dev-r
+# GIT GUIDE
+- Adding this from `dev-jsm`
+- Adding this from `feature-branch`
